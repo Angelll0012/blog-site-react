@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites name="vitest tests" tests="1" failures="0" errors="0" time="0.009777956">
+    <testsuite name="src/components/ArticleList.test.jsx" timestamp="2026-11-06T08:22:35.807Z" hostname="Khoi" tests="1" failures="0" errors="0" skipped="0" time="0.009777956">
+        <testcase classname="src/components/ArticleList.test.jsx" name="ArticleList &gt; renders each post&apos;s title, date, and preview" time="0.008297817">
+        </testcase>
+    </testsuite>
+</testsuites>
